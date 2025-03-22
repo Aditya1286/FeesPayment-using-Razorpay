@@ -11,6 +11,7 @@ This project implements a fees payment page integrated with Razorpay payment gat
 - Payment history
 - Responsive design for desktop and mobile devices
 
+
 ## Prerequisites
 - Node.js (v14.0.0 or higher)
 - npm (v6.0.0 or higher)
